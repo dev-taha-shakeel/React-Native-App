@@ -1,0 +1,3 @@
+rootProject.name = 'Pecksih'
+
+include ':app'
